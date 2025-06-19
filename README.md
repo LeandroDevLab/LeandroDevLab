@@ -1,4 +1,4 @@
-# Olá, eu sou Leandro Ribeiro👋
+# Olá, eu sou Leandro Oliota-Ribeiro👋
 ![Visitas em meu perfil](https://komarev.com/ghpvc/?username=LeandroDevLab&color=0000ff&label=Welcome+to+my+profile+you+are+visitor+nº:)
 ----
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&pause=1000&multiline=true&width=435&height=150&lines=Hi%2C+I'm+Leandro+Ribeiro%3A+;Full+Stack+Developer;+Always+in+development!)](https://git.io/typing-svg)
