@@ -3,6 +3,7 @@
 ----
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&pause=1000&multiline=true&width=435&height=150&lines=Hi%2C+I'm+Leandro+Ribeiro%3A+;Full+Stack+Developer;+Always+in+development!)](https://git.io/typing-svg)
 
+
 🔭 Atualmente trabalhando com desenvolvimento web  
 🌱 Estudando React, TypeScript, Node.js, Banco de Dados (MongoDB e MySQL)  
 💬 Pergunte-me sobre desenvolvimento full-stack  
@@ -60,9 +61,28 @@
 ----------
 
 ## 📊 Estatísticas do GitHub  
-![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroDevLab&show_icons=true&theme=highcontrast)  
+<table>
+<tbody style="text-align:center">
+<tr>
+<td>
+ 
+![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroDevLab&show_icons=true&theme=highcontrast) 
+ 
+</td>
+<td>
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroDevLab&layout=compact&theme=highcontrast)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeandroDevLab&theme=highcontrast)  
+ 
+</td>
+<td>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeandroDevLab&theme=highcontrast) 
+
+</td>
+</tr>
+
+</tbody>
+</table>
 
 📫 **Me encontre por aqui:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/LeandroDevLab/)  
