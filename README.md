@@ -72,28 +72,11 @@
 ----------
 
 ## 📊 Estatísticas do GitHub  
-<table>
-<tbody style="text-align:center">
-<tr>
-<td>
- 
-![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroDevLab&show_icons=true&theme=highcontrast) 
- 
+<td align="center">
+        <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=LeandroDevLab&theme=highcontrast"/>
 </td>
-<td>
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroDevLab&layout=compact&theme=highcontrast)  
- 
-</td>
-<td>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeandroDevLab&theme=highcontrast) 
 
-</td>
-</tr>
-
-</tbody>
-</table>
 
 📫 **Me encontre por aqui:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/LeandroDevLab/)  
