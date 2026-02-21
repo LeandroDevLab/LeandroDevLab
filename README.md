@@ -6,7 +6,7 @@
 
 
 🔭 Atualmente trabalhando com desenvolvimento web  
-🖥️ Full-stack developer em formação — foco em React, Node.js, TypeScript e APIs com bancos MongoDB/MySQL.  
+🖥️ Full-stack developer — foco em React, Node.js, TypeScript e APIs com bancos MongoDB/MySQL - 1% better daily.  
 ----------
 ## 🌐 Portfólio
 🔗<a href="https://leandrodevlab.github.io/" target="_blank">Acesse meu portfólio!</a>
