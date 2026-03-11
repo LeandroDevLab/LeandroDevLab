@@ -79,4 +79,4 @@
 
 
 📫 **Me encontre por aqui:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/LeandroDevLab/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/leandrosoribeiro)  
