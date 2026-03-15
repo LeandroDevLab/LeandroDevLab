@@ -72,10 +72,18 @@
 
 ----------
 
-## 📊 Estatísticas do GitHub  
+## 📊 Estatísticas do GitHub 
+<table >
+ 
 <td align="center">
-        <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=LeandroDevLab&theme=highcontrast"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeandroDevLab&theme=highcontrast"/>
 </td>
+<td align="center">
+        
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrodevlab&layout=compact&show_icons=true&theme=highcontrast)](https://github.com/leandrodevlab/github-readme-stats)
+</td>
+</table>
+
 
 
 
