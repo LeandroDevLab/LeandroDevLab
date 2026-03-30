@@ -74,14 +74,22 @@
 
 ## 📊 Estatísticas do GitHub 
 <table >
+ <tr>  
+  <th align="center" colspan="2">
+   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LeandroDevLab&bg_color=000000&color=ffa601&line=ffa601&point=ffffff&area=true&hide_border=true&custom_title=😎%20TRAJETÓRIA%20DE%20CONTRIBUIÇÃO%20-%20LINHA%20DO%20TEMPO" />
+  </th>
+ </tr>
+ <tr>
+  
+  <td align="center">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeandroDevLab&theme=highcontrast"/>
+  </td>
+  <td align="center">
+          
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrodevlab&layout=compact&show_icons=true&theme=highcontrast)](https://github.com/leandrodevlab/github-readme-stats)
+  </td>
+ </tr>
  
-<td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeandroDevLab&theme=highcontrast"/>
-</td>
-<td align="center">
-        
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrodevlab&layout=compact&show_icons=true&theme=highcontrast)](https://github.com/leandrodevlab/github-readme-stats)
-</td>
 </table>
 
 
